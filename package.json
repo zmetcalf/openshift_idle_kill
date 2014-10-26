@@ -1,0 +1,12 @@
+{
+  "name": "openshift_idle_kill",
+  "description": "Stop openshift from idling",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "superagent": "0.x",
+    "winston": "0.x",
+    "cron": "1.x",
+    "async": "0.x"
+  }
+}
