@@ -1,5 +1,4 @@
 var app = require('./app');
-var winston = require('winston');
 var CronJob = require('cron').CronJob;
 
 var job = new CronJob({
